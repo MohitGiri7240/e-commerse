@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146146242259",
+    "project_id": "mxpertz-bacde",
+    "storage_bucket": "mxpertz-bacde.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146146242259:android:51c014b1b0ab7e3ddf6e26",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpL8ikYoxNLy0dc7lE0Y9ROeyFUWdavU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
